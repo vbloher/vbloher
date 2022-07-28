@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="left"> <a href="https://vbloher.com/" target="_blank"><img src="https://user-images.githubusercontent.com/38581319/137599261-a856d69e-4133-46ec-b821-5c729fa07b6b.png" width="128"/></a></p>
 
-<!--
-**vbloher/vbloher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# vbloher Profile
+> Hi! My Name is Valentin and I'm a software developer with 7+ years of experience and validator in many proof-of-stake chains. My main priority is security and reliability of my services.
 
-Here are some ideas to get you started:
+> At the moment I'm creating guides and developing tools for community to make node operator life easier, take a look at one of them - https://github.com/vbloher/monitoring-tool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Discord: vbloher#2545
+- Email: vbloher7@gmail.com
+- Website: https://vbloher.com
+- Twitter: https://twitter.com/vbloher
+- Youtube: https://www.youtube.com/channel/UCFwvzQ9Hbkwz3GJbncrD2xg
