@@ -9,3 +9,7 @@
 - Website: https://vbloher.com
 - Twitter: https://twitter.com/vbloher
 - Youtube: https://www.youtube.com/channel/UCFwvzQ9Hbkwz3GJbncrD2xg
+
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=vbloher)](https://github.com/anuraghazra/github-readme-stats)
