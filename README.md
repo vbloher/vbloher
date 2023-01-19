@@ -5,8 +5,8 @@
 
 ## Contact
 - Discord: vbloher#2545
-- Email: vbloher7@gmail.com
-- Website: https://vbloher.com
+- Email: vbloher@nodejumper.io
+- Website: https://nodejumper.io
 - Twitter: https://twitter.com/vbloher
 
 ## Stats
